@@ -122,7 +122,7 @@ function playSound(fourier) {
   }
   oscillators = [];
 
-  const duration = 2; // seconds
+  const duration = 3; // seconds
   const now = audioCtx.currentTime;
 
   fourier.slice(0, 10).forEach(({ freq, amp, phase }, i) => {
