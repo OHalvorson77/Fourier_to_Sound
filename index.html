@@ -36,6 +36,8 @@
 <body>
   <h1>🎵 Fourier Series Synthesizer</h1>
   <div class="info">Draw on the canvas by dragging your mouse</div>
+  <input type="file" accept=".svg" onchange="loadSVG(event)">
+<button onclick="exportWaveform()">Export WAV</button>
   <button onclick="restart()">Clear & Restart</button>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"></script>
