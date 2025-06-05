@@ -12,7 +12,7 @@ Built with **p5.js**, this project lets you draw any closed shape and then watch
 - 🧮 Real-time **Discrete Fourier Transform (DFT)**
 - 🔁 Animated epicycles visualizing each term in the Fourier series
 - 📈 Trace output of the approximation over time
-- 🧠 Optional extension: Play corresponding synthesized audio using harmonics!
+- 🧠 Play corresponding synthesized audio using harmonics!
 
 ---
 
