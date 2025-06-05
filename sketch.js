@@ -25,7 +25,7 @@ function mouseReleased() {
     fourier.sort((a, b) => b.amp - a.amp);
     state = 0;
 
-    playSound(fourier); // 🎵 play tones
+    playSound(fourier); 
   }
 }
 
