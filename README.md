@@ -4,6 +4,7 @@ A creative math-visualization tool that uses **Fourier series** to decompose dra
 
 Built with **p5.js**, this project lets you draw any closed shape and then watch how it can be recreated with a series of sine and cosine waves — a vivid demonstration of the power of Fourier transforms.
 
+An additional feature I added was sound output based on amplitude and frequency.
 ---
 
 ## ✨ Features
@@ -18,7 +19,7 @@ Built with **p5.js**, this project lets you draw any closed shape and then watch
 
 ## 📸 Demo
 
-![Fourier Epicycles Demo](https://user-images.githubusercontent.com/your-demo.gif)
+Demo video is commiting as file in the repo. (Fourier Demo.mp4)
 
 ---
 
