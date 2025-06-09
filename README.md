@@ -22,6 +22,8 @@ An additional feature I added was sound output based on amplitude and frequency.
 
 Demo video is commiting as file in the repo. (Fourier Demo.mp4)
 
+Site link: https://ohalvorson77.github.io/Fourier_to_Sound/
+
 ---
 
 ## 🚀 Getting Started
